@@ -15,23 +15,23 @@ Projets
 ----------------------
 
 2018.11 - Aujourd'hui
-:   **Développement informatique — C, Python** –  (42 Paris)
+:   **Développement informatique — C, Python** – (42 Paris)
 
+    * [**Corewar**][1] : créer une machine virtuelle de “corewar” et son assembleur dédié
 
-    * [**Corewar**][1]:
+        * un visualiseur en Python utilisant Ctypes pour se connecter à du C
 
-        * sujet : créer une machine virtuelle de “corewar” et son assembleur dédié
-        * 
+    * [**Lem-in**][2] : trouver les chemins optimaux pour traverser d'une fourmilière
+        * implémentation de l'algorithme d'Edmonds-Karp avec adapdation
 
+    * [**wolf3D**][3] : moteur graphique de type ray-casting codé avec lib-SDL
 
-    * [**Lem-in**][2] : 
-        * sujet : trouver les chemins optimaux pour traverser d'une fourmilière
-        * implémentation de l'algorithme d'Edmonds-Karp avec personalisation 
-
-
-    * [**wolf3D**][3] : ray-casting, lib-SDL
     * [**ft_printf**][4] : re-coder la fonction printf de la lib-C    
-    * Doom-Nukem : moteur du jeu 3D, algorithm BSP-tree
+
+    * Doom-Nukem : moteur du jeu 3D, algorithme BSP-tree
+
+    * FDF : une simple implémentation du ray-tracing
+
     * Init : Network & système Unix
 
 Formation
@@ -62,23 +62,33 @@ Formation
 Experience
 ----------------
 2017 - 2019
-:   **Traductrice freelance français-chinois**
+:   **Traductrice freelance français-chinois** - Paris (France)
 
-2012
+
+2017(6 mois)
+:   **Assistante de direction et traductrice stagiaire chez Hachette-Phoenix Cultural Development** - Pékin (Chine)
+
+
+2012(5 mois)
 :   **Semestre d'échange à Université de Konkuk** - Seoul (Corée du Sud)
 
 Langue
 ----------------
+Chinois          
+:   Langue maternelle
 
-    **Chinois**             Langue maternelle*
+Français 
+:   Capacité professionnelle complète
 
-    **Français**            Capacité professionnelle complète*
-*Anglais             Capacité professionnelle complète*
-*Allemand            Notions*
+Anglais
+:   Capacité professionnelle complète
+
+Allemand
+:   Notions
 
 ----
 
-> <jleblond@student.42.fr> Tél : +33（0）652002116\
+> <jie.zhou.ac@gmail.com>  Tél: +33(0)652002116\
 
 
 [1]: https://github.com/touilleWoman/corewar
