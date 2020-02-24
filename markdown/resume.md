@@ -91,7 +91,7 @@ Allemand
 > <jie.zhou.ac@gmail.com>  Tél: +33(0)652002116\
 
 
-[1]: https://github.com/touilleWoman/corewar
+[1]: https://github.com/touilleWoman/corewar/tree/master
 [2]: https://github.com/touilleWoman/Lem_in
 [3]: https://github.com/touilleWoman/wolf3d
 [4]: https://github.com/touilleWoman/ft_printf
