@@ -2,11 +2,38 @@
 
 ----
 
->  Étudiante de l'école 42, en recherche d'un stage orienté Python 
+
 >   
   GitHub: [touilleWoman][5]
 
 ----
+
+Experience
+----------------
+2020 (6 mois)
+:   **Développement Backend Python/Django chez Numizon** - Paris
+    
+    [**Vidéo de stage sur YouTube**][7]
+
+
+        Environnement technique: Django, PostgreSQL, Git, VueJs
+
+        Services:  Heroku, Amazon S3, Tineye(Matching image), Google OCR
+
+        Lib: Celery, Beautiful Soup, Selenium, PyTest
+
+
+2017 - 2019
+:   Traductrice freelance français-chinois - Paris
+
+
+2017 (6 mois)
+:   Traductrice stagiaire chez Hachette-Phoenix Cultural Development - Pékin (Chine)
+
+
+2012 (5 mois)
+:   Semestre d'échange à Université de Konkuk - Seoul (Corée du Sud)
+
 
 Projets
 ----------------------
@@ -27,49 +54,32 @@ Projets
 
     * [**ft_printf**][4] : re-coder la fonction printf de la lib-C    
 
-    * Doom-Nukem : moteur du jeu 3D, algorithme BSP-tree
 
-    * FDF : une simple implémentation du ray-tracing
-
-    * Init : Network & système Unix
 
 Formation
 ---------
 
 2018.11 - Aujourd'hui
-:   **École 42**  – Paris (France)
+:   **École 42**  – Paris
 
-    *Développement informatique — C, Python*
+        Développement informatique — C, Rust, Python
 
 2013 - 2017
-:   **Université Sorbonne Nouvelle - Paris 3** –  Paris (France)
+:   **Université Sorbonne Nouvelle - Paris 3** –  Paris
 
-    *Master 2. Traduction et terminologie juridiques et financières*
+        Master Traduction et terminologie juridiques et financières
 
-    *Master 1. Traduction et terminologie juridiques et financières*
+        Master Etudes Européennes
 
-    *Master 1.  Etudes Européennes*
-
-    *Diplôme Universitaire de Langue Française*
+        Diplôme Universitaire de Langue Française
 
 2009 - 2013
 :   **Université du Hunan - 湖南大学** –  Changsha (Chine)
 
-    *Licence en économie et commerce internationaux*
+        Licence en économie et commerce internationaux
 
 
-Experience
-----------------
-2017 - 2019
-:   **Traductrice freelance français-chinois** - Paris (France)
 
-
-2017(6 mois)
-:   **Assistante de direction et traductrice stagiaire chez Hachette-Phoenix Cultural Development** - Pékin (Chine)
-
-
-2012(5 mois)
-:   **Semestre d'échange à Université de Konkuk** - Seoul (Corée du Sud)
 
 Langue
 ----------------
@@ -96,3 +106,4 @@ Allemand
 [4]: https://github.com/touilleWoman/ft_printf
 [5]: https://github.com/touilleWoman
 [6]: https://github.com/touilleWoman/Push_swap
+[7]: https://www.youtube.com/watch?v=jLiXZENA0no
