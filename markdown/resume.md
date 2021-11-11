@@ -41,18 +41,19 @@ Projets
 2018.11 - Aujourd'hui
 :  
 
-    * [**Corewar**][1] : implémentation d'une machine virtuelle et d'un assembleur dédié 
+    * [**N-puzzle**][4] : résoudre le jeu "taquin" avec algo A* (en RUST)
+
+    * [**Corewar**][1] : implémentation d'une machine virtuelle et d'un assembleur dédié (en C)
         * test en Python avec Pytest et Hypothesis 
         * debugger de VM en Python via ctypes 
 
-    * [**Lem-in**][2] : trouver les chemins optimaux pour traverser une fourmilière
+    * [**Lem-in**][2] : trouver les chemins optimaux pour traverser une fourmilière (en C)
         * implémentation de l'algorithme d'Edmonds-Karp avec adapdation
 
-    * [**wolf3D**][3] : moteur graphique de type ray-casting codé avec la lib-SDL
+    * [**wolf3D**][3] : moteur graphique de type ray-casting codé avec la lib-SDL (en C)
 
-    * [**push_swap**][6] : algotithme de tri    
+    * [**push_swap**][6] : algotithme de tri (en C)
 
-    * [**ft_printf**][4] : re-coder la fonction printf de la lib-C    
 
 
 
@@ -103,7 +104,7 @@ Allemand
 [1]: https://github.com/touilleWoman/corewar/tree/master
 [2]: https://github.com/touilleWoman/Lem_in
 [3]: https://github.com/touilleWoman/wolf3d
-[4]: https://github.com/touilleWoman/ft_printf
+[4]: https://github.com/touilleWoman/N-Puzzle_with_Rust
 [5]: https://github.com/touilleWoman
 [6]: https://github.com/touilleWoman/Push_swap
 [7]: https://www.youtube.com/watch?v=jLiXZENA0no
